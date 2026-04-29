@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Face Mask Detection
 
 Face mask detection using deep learning with MobileNetV2 for mask classification and SSD (Single Shot Detector) for face detection.
@@ -43,3 +44,7 @@ python detect_mask_video.py --video <path>  # video file
 ## Notes
 - Older TF/Keras versions for compatibility with pre-trained models.
 - Update to TF2+ possible but requires model conversion.
+=======
+# Face-Mask-Detection
+This program detects if you have wore mask or not
+>>>>>>> 77330d9f6d56a9a447ec1bb2eacdb253d5c729f5
